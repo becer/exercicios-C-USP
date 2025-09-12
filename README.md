@@ -1,0 +1,2 @@
+# exercicios-C-USP
+Repositorio 
